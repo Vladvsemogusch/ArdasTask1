@@ -1,4 +1,4 @@
-package com.example.anisimov.vlad.ardastask1;
+package com.example.anisimov.vlad.RandomCompany2task1;
 
 import android.content.Context;
 import android.content.Intent;
